@@ -1,5 +1,5 @@
 <?php 
-//notas
+
 class Conexion{	  
     public static function Conectar() {        
         define('servidor', 'localhost');
