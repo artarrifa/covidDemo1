@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../GitHub/API-PHP"
+		},
+		{
+			"path": "../../../.bitnami/stackman/machines/xampp/volumes/root/htdocs/apiSimple/ApiCovid19"
+		},
+		{
+			"path": "../../GitHub"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
