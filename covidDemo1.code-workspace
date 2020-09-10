@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"name": "covidDemo1",
+			"path": "."
+		},
+		{
+			"name": "CrudCovid19Demo9sept2020",
+			"path": "../../CRUD-Covid19DemoVsep92020/CrudCovid19Demo9sept2020"
+		}
+	],
+    "settings": {}
+}
