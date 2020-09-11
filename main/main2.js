@@ -86,7 +86,7 @@ jQuery(document).ready(function() {
 
         ],
         "ajax": {
-            "url": "bd/crud2.php",
+            "url": "../bd/crud2.php",
             "method": 'POST', //usamos el metodo POST
             "data": { opcion: opcion }, //enviamos opcion 4 para que haga un SELECT
             "dataSrc": ""
