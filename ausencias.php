@@ -19,8 +19,8 @@ $data=$resultado->fetchAll(PDO::FETCH_ASSOC);
 
 
      <header>
-      <h1 class="text-center text-info ">PROYECTO ALEXIS</h1>
-         <h2 class="text-center text-dark">BASE DE DATOS <span class="badge badge-warning">AUSENCIAS</span></h2> 
+      <h1 class="text-center text-info ">ADMINISTRACION REGISTRO</h1>
+         <h2 class="text-center text-dark"> <span class="badge badge-warning">AUSENCIAS</span></h2> 
      </header> 
 
       <div class="container">
